@@ -12,4 +12,4 @@ Sou um FullStack Developer :computer:
 :church: &nbsp; Atualmente trabalho como programador no **Ministério Atos de Justiça**
 <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end, usando React, Next, PHP, ou simplesmente como UI/UX designer.
 <br/> :books: &nbsp; Formado como T.I. pelo IFMS, e cursando S.I. pela UFMS.
-<br/> :computer: &nbsp; As minhas stacks são: ReactJS, Node.js, PHP & Typescript.
+<br/> :computer: &nbsp; As minhas stacks são: **ReactJS, Node.js, PHP & Typescript**.
