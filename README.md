@@ -8,7 +8,7 @@ I am passionate about solving problems using programming. I'm a FullStack Develo
 
 ### Sobre mim:
 
-:church: &nbsp; Atualmente trabalho como programador no **Ministério Atos de Justiça**
-<br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end, usando React, Next, PHP, ou simplesmente como UI/UX designer.
-<br/> :books: &nbsp; Formado como T.I. pelo IFMS, e cursando S.I. pela UFMS.
-<br/> :computer: &nbsp; As minhas stacks são: **ReactJS, Node.js, PHP & Typescript**.
+:church: &nbsp; Currently working like developer at **Ministério Atos de Justiça**
+<br/> :heart: &nbsp; Searching for projects to collaborate at Front-end, Back-end, using React, Next, PHP, or UI/UX designer.
+<br/> :books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at UFMS.
+<br/> :computer: &nbsp; My stacks are: **ReactJS, Node.js, JS, PHP, Laravel & Typescript**.
