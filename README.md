@@ -9,7 +9,7 @@ I am passionate about solving problems using programming. I'm a FullStack Develo
 ### Sobre mim:
 <ul>
   <li>:church: &nbsp; Currently working like developer at **Ministério Atos de Justiça**</li>
-<br/> :heart: &nbsp; Searching for projects to collaborate at Front-end, Back-end, using React, Next, PHP, or UI/UX designer.
-<br/> :books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at UFMS.
-<br/> :computer: &nbsp; My stacks are: **ReactJS, Node.js, JS, PHP, Laravel & Typescript**.
+  <li>:heart: &nbsp; Searching for projects to collaborate at Front-end, Back-end, using React, Next, PHP, or UI/UX designer.</li>
+  <li>:books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at UFMS.</li>
+  <li>:computer: &nbsp; My stacks are: **ReactJS, Node.js, JS, PHP, Laravel & Typescript**.</li>
 </ul>
