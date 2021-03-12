@@ -11,5 +11,5 @@ I am passionate about solving problems using programming. I'm a FullStack Develo
   <li>:church: &nbsp; Currently working like developer at <strong>Ministério Atos de Justiça</strong> </li>
   <li>:heart: &nbsp; Searching for projects to collaborate at Front-end, Back-end, using React, Next, PHP, or UI/UX designer.</li>
   <li>:books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at UFMS.</li>
-  <li>:computer: &nbsp; My stacks are: **ReactJS, Node.js, JS, PHP, Laravel & Typescript**. </li>
+  <li>:computer: &nbsp; My stacks are: <strong>ReactJS, Node.js, JS, PHP, Laravel & Typescript.</strong> </li>
 </ul>
