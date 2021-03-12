@@ -13,3 +13,5 @@ I am passionate about solving problems with programming. I'm a FullStack Develop
   <li>:books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at UFMS.</li>
   <li>:computer: &nbsp; My stacks are: <strong>Next.js, ReactJS, Node.js, JS, PHP, Laravel & Typescript.</strong> </li>
 </ul>
+
+ 
