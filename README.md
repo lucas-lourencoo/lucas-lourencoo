@@ -1,4 +1,4 @@
-# Lucas Lourenço
+# Lucas Lourenço Silva
 
 ## Hi there 👋
 I am passionate about solving problems with programming. I'm a FullStack Developer :computer:
