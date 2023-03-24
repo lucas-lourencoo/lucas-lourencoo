@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Lucas
 
-👨🏻‍💻 I'm a FullStack Developer, passionate about solving problems with programming.
+👨🏻‍💻 I'm a Front-end Developer, passionate about solving problems with programming.
 
 [![Gmail Badge](https://img.shields.io/badge/-lucascelestiano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=1B3288&labelColor=1B3288&link=mailto:lucascelestiano@gmail.com)](mailto:lucascelestiano@gmail.com)
 
 ## About me:
 <ul>
-  <li>:church: &nbsp; Currently working like developer at <strong>Ministério Atos de Justiça</strong> </li>
-  <li>:heart: &nbsp; Searching for projects to collaborate at Front-end, Back-end, using React, Next, or UI/UX designer.</li>
-  <li>:books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at UFMS.</li>
+  <li>:church: &nbsp; Front-end dev at <strong>Dotkon</strong> </li>
+  <li>:heart: &nbsp; Searching for projects to collaborate at Front-end, using React, Next and TS.</li>
+  <li>:books: &nbsp; Graduated I.T. at IFMS, and studing S.I. at Estácio.</li>
 </ul>
 
 ## 🖥️ Technologies
