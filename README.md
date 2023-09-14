@@ -36,7 +36,7 @@
 ## Github Analitycs
 <div style="display: flex; align-items: flex-start;">
   <a href="https://github.com/lucas-lourencoo">
-  <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=lucas-lourencoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=lucas-lourencoo"/>
   <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lourencoo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
