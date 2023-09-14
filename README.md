@@ -36,8 +36,8 @@
 ## Github Analitycs
 <div style="display: flex; align-items: flex-start;">
   <a href="https://github.com/lucas-lourencoo">
-  <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=lucas-lourencoo"/>
-  <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lourencoo&layout=compact&langs_count=16&theme=dark"/>
+  <!--<img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=lucas-lourencoo&theme=react"/>-->
+  <img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lourencoo&theme=react&layout=compact"/>
 </div>
 
 <h2 align="center"> 👍 Follow me</h2>
