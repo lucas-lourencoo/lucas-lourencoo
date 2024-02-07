@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lucas
 
-👨🏻‍💻 I'm a Front-end Developer, passionate about solving problems with programming.
+👨🏻‍💻 I'm a Full-stack Developer, passionate about solving problems with programming.
 
 ### About me:
 <ul>
