@@ -5,7 +5,7 @@
 ### About me:
 <ul>
   <li>:heart: Searching for projects to collaborate using React, Next and TS.</li>
-  <li>🌱 Learning all about <strong>Front-End World</strong></li>
+  <li>⚙️ Learning all about <strong>Front-End World</strong></li>
   <li>:books: Graduated I.T. at IFMS, and studing S.I. at Estácio.</li>
 </ul>
 
