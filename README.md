@@ -1,3 +1,5 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 # Hi there 👋, I'm Lucas
 
 👨🏻‍💻 I'm a Full-stack Developer, passionate about solving problems with programming.
